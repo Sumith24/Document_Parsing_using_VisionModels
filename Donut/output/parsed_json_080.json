@@ -1,0 +1,60 @@
+{
+    "menu": [
+        {
+            "nm": "HON HWA HARDWARE TRADING",
+            "unitprice": "001055194X",
+            "cnt": "3",
+            "price": "TRADING"
+        },
+        {
+            "nm": "NO 37, JALAN MANIS 7, TAMAN SEGAR,",
+            "cnt": "3",
+            "price": "2672"
+        },
+        {
+            "nm": "GST Reg: 001125220352",
+            "unitprice": "INVOICE",
+            "cnt": {
+                "unitprice": "21/09/2017"
+            },
+            "price": "5.40 SR"
+        },
+        {
+            "nm": "ALUMINUM ROD",
+            "unitprice": "6.00",
+            "cnt": "5",
+            "price": "5.00 SR"
+        },
+        {
+            "nm": "PVC WALLPLUG",
+            "unitprice": "(50PCS)",
+            "cnt": "5",
+            "price": "5.00 SR"
+        },
+        {
+            "nm": "5.9 Type: 2",
+            "unitprice": "Total",
+            "discountprice": "0.00",
+            "price": "0.00"
+        },
+        {
+            "nm": "Rounding Adj",
+            "unitprice": "0.00",
+            "cnt": "3",
+            "price": "10.40"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "10.40",
+        "discount_price": "10.40",
+        "service_price": "10.40",
+        "tax_price": "9.81"
+    },
+    "total": {
+        "total_price": "0.59",
+        "cashprice": "10.40",
+        "changeprice": "again !!"
+    },
+    "filename": "080.jpg",
+    "processing_time": 2.12
+}

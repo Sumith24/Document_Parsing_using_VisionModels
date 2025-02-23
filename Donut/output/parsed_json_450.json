@@ -1,0 +1,43 @@
+{
+    "menu": [
+        {
+            "nm": "MR. D.I.Y. (M) SDN BHD",
+            "num": "(CO.REG :860671-D)",
+            "price": "8HD"
+        },
+        {
+            "nm": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG,",
+            "price": {
+                "unitprice": "24",
+                "cnt": "1 X"
+            }
+        },
+        {
+            "nm": "SEKOPLAS H/D GARBAGE 89cm*117cm",
+            "price": {
+                "unitprice": "9.50",
+                "cnt": "5 X"
+            }
+        },
+        {
+            "nm": "PLASTIC BAGS",
+            "num": "99999",
+            "unitprice": "0.20",
+            "cnt": "1 X",
+            "price": "0.20"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "Qty(s) : 7"
+    },
+    "total": {
+        "total_price": "ALLOWED WITHIN",
+        "cashprice": "RM 100.20",
+        "changeprice": "47.00",
+        "tax_price": "R000064333",
+        "etc": "T3",
+        "menuqty_cnt": "7"
+    },
+    "filename": "450.jpg",
+    "processing_time": 1.96
+}

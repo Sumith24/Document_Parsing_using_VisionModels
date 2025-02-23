@@ -1,0 +1,118 @@
+{
+    "menu": [
+        {
+            "nm": "SOON HUAT MACHINERY ENTERPRISE",
+            "cnt": "1.",
+            "price": "PUTRA"
+        },
+        {
+            "nm": "JOHOR",
+            "unitprice": "81200",
+            "cnt": {
+                "unitprice": "00214"
+            },
+            "price": "07-5624059"
+        },
+        {
+            "nm": "CASH SALES",
+            "unitprice": "00214",
+            "cnt": "2.",
+            "price": "11/01/2019"
+        },
+        {
+            "nm": "Cashier USER",
+            "unitprice": "09-44:00",
+            "cnt": "2.",
+            "price": "09:4:00"
+        },
+        {
+            "nm": "Salesperson",
+            "cnt": "1",
+            "price": "Amount Tax"
+        },
+        {
+            "nm": "REPAIR ENGINE POWER SPRAYER",
+            "unitprice": "80.00",
+            "cnt": "1",
+            "price": "80.00"
+        },
+        {
+            "nm": "workmanship & service",
+            "unitprice": "160.00",
+            "cnt": "1",
+            "price": "160.00"
+        },
+        {
+            "nm": "70549",
+            "unitprice": "160.00",
+            "cnt": "1",
+            "price": "160.00"
+        },
+        {
+            "nm": "GIANT 606 OVERFLOW ASSY",
+            "unitprice": "17.00",
+            "cnt": "1",
+            "price": "17.00"
+        },
+        {
+            "nm": "ENGINE OIL",
+            "unitprice": "10.00",
+            "cnt": "1",
+            "price": "10.00"
+        },
+        {
+            "nm": "GREASE FOR TOOLS 40ML (AKODA)",
+            "unitprice": "6.000",
+            "cnt": "1",
+            "price": "6,00"
+        },
+        {
+            "nm": "70637",
+            "unitprice": "6.000",
+            "cnt": "1",
+            "price": "6.00"
+        },
+        {
+            "nm": "EY20 PLUG CHAMPION",
+            "unitprice": "8.00",
+            "cnt": "1",
+            "price": "8.00"
+        },
+        {
+            "nm": "1643",
+            "unitprice": "8.00",
+            "cnt": "1",
+            "price": "8.00"
+        },
+        {
+            "nm": "STARTER TALI",
+            "unitprice": "10.00",
+            "cnt": "1",
+            "price": "10.00"
+        },
+        {
+            "nm": "EY20 STARTER HANDLE",
+            "unitprice": "70561",
+            "cnt": "2",
+            "price": "18.00"
+        },
+        {
+            "nm": "HD40 1L COTIN",
+            "unitprice": "327.00",
+            "cnt": "9",
+            "price": "327.00"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "327.00"
+    },
+    "total": {
+        "total_price": "0.00",
+        "cashprice": "0.00",
+        "changeprice": "0.00",
+        "creditcardprice": "327.00",
+        "menuqty_cnt": "0.00"
+    },
+    "filename": "006.jpg",
+    "processing_time": 2.69
+}

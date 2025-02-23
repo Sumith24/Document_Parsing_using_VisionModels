@@ -1,0 +1,38 @@
+{
+    "menu": [
+        {
+            "nm": "tan chay yee",
+            "cnt": {
+                "price": "INVOICE",
+                "nm": "ITEM/DESC.",
+                "num": "QTY U.PRICE RM(TOTAL)",
+                "unitprice": "20.00"
+            },
+            "price": "20.00"
+        },
+        {
+            "nm": "CROCS 300X17 TUBES",
+            "num": [
+                {
+                    "price": "20.00"
+                },
+                {
+                    "nm": "CHANGE :",
+                    "cnt": ":",
+                    "price": "20.00"
+                }
+            ],
+            "price": "0.00"
+        },
+        {
+            "nm": "TOKEN NO: 0, STATION ID: Al, PID: POS",
+            "num": "INVOICE NO: 22497",
+            "price": "22497"
+        }
+    ],
+    "total": {
+        "total_price": "20-00"
+    },
+    "filename": "007.jpg",
+    "processing_time": 1.61
+}

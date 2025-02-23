@@ -1,0 +1,60 @@
+{
+    "menu": [
+        {
+            "nm": "PASARAYA CINWA SDN BHD",
+            "num": "A06050",
+            "price": "(113404)"
+        },
+        {
+            "nm": "NO.6.8. 106.12.JALAN PERMAS 4/3",
+            "price": "A06050"
+        },
+        {
+            "price": "15,06218"
+        },
+        {
+            "nm": "Sasherson JULIANA",
+            "price": "09,400.00"
+        },
+        {
+            "nm": {
+                "price": "2.50 sno"
+            },
+            "num": [
+                {
+                    "cnt": "200,00",
+                    "price": "2.00"
+                },
+                {
+                    "nm": "GREN BEAN :20G"
+                }
+            ],
+            "price": "2.00"
+        },
+        {
+            "nm": {
+                "price": "8.90"
+            },
+            "price": "14.20"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "14,20",
+        "discount_price": "0.00",
+        "tax_price": "14.20",
+        "etc": [
+            "0.00",
+            "0.00",
+            "0.00",
+            "0.00"
+        ]
+    },
+    "total": {
+        "total_price": "14.20",
+        "cashprice": "20.20",
+        "changeprice": "6.00",
+        "creditcardprice": "14.20"
+    },
+    "filename": "530.jpg",
+    "processing_time": 3.21
+}

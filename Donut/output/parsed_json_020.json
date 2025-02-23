@@ -1,0 +1,69 @@
+{
+    "menu": [
+        {
+            "nm": "SYL ROASTED DELIGHTS SDN. BHD.",
+            "num": "1227035",
+            "price": {
+                "num": "TEL: 03-7731"
+            }
+        },
+        {
+            "nm": [
+                {},
+                {
+                    "price": "12:06:00"
+                }
+            ],
+            "price": "12:06:00"
+        },
+        {
+            "nm": "Description",
+            "num": "Qty Price Amount",
+            "price": "Amount"
+        },
+        {
+            "nm": "RICE WITH PEANUT",
+            "unitprice": [
+                {
+                    "num": "20",
+                    "price": "7.00"
+                },
+                {
+                    "nm": "SMALL"
+                }
+            ],
+            "cnt": "1.0",
+            "price": "12.0"
+        },
+        {
+            "nm": "(V02) SOUR & SPICY",
+            "unitprice": "12.000",
+            "cnt": "1.0",
+            "price": "12.0"
+        },
+        {
+            "nm": "MUSTARD",
+            "price": "2.30"
+        },
+        {
+            "nm": "TEA(HOT)",
+            "price": "11.90"
+        },
+        {
+            "nm": "ROAST CHICKEN RICE",
+            "price": "51.42"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "51.42",
+        "discount_price": "0.00"
+    },
+    "total": {
+        "total_price": "3.08",
+        "cashprice": "0.00",
+        "changeprice": "54.50",
+        "menuqty_cnt": "7"
+    },
+    "filename": "020.jpg",
+    "processing_time": 1.82
+}

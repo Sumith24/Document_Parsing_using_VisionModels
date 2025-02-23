@@ -1,0 +1,64 @@
+{
+    "menu": [
+        {
+            "nm": "GHEE HIANG",
+            "num": "GH DISTRIBUTOR & MARKETING SON BHD<s_num> (1097826-H)",
+            "unitprice": "10400",
+            "cnt": [
+                {
+                    "nm": "Tel: 04-227",
+                    "num": "# 2222",
+                    "price": "212,"
+                },
+                {
+                    "nm": "GST Reg. No.:",
+                    "num": "001315377152",
+                    "price": "TAX INVOICE"
+                },
+                {
+                    "nm": {
+                        "price": "12:53 PM"
+                    }
+                }
+            ],
+            "price": {
+                "num": "20/06/2018 12:56 PM"
+            }
+        },
+        {
+            "nm": "QTY ITEM",
+            "unitprice": "@9.00",
+            "cnt": "4",
+            "price": "36.00 SR"
+        },
+        {
+            "nm": "TAU SAR PNEAH (S) 16PCS",
+            "unitprice": "@7.60",
+            "cnt": "2",
+            "price": "15.20 SR"
+        },
+        {
+            "nm": "BEH TEH SAW 8PCS",
+            "unitprice": "@8.00",
+            "cnt": "2",
+            "price": "16.00 SR"
+        },
+        {
+            "nm": "PHONG PNEAH 6PCS",
+            "unitprice": "@9.00",
+            "cnt": "2",
+            "price": "18.00 SR"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "85.20"
+    },
+    "total": {
+        "total_price": "85.20",
+        "cashprice": "100.20",
+        "changeprice": "15.00",
+        "creditcardprice": "85.20"
+    },
+    "filename": "610.jpg",
+    "processing_time": 1.76
+}

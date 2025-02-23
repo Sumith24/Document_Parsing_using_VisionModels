@@ -1,0 +1,65 @@
+{
+    "menu": [
+        {
+            "nm": "PANDAH INDAH PULAU KETAM RESTAURANT",
+            "unitprice": "010-202293",
+            "cnt": "4/1A,",
+            "price": "4/1A,"
+        },
+        {
+            "nm": "PANDAH INDAH, 55100",
+            "unitprice": "010-202293",
+            "cnt": "6",
+            "price": "LUMPUR.",
+            "sub": {
+                "nm": "TEL: 012-2673122"
+            }
+        },
+        {
+            "nm": "Check #: 113355",
+            "unitprice": "113355",
+            "cnt": {
+                "nm": "KUO POH (C) (2 PAX)"
+            },
+            "price": "6.00"
+        },
+        {
+            "nm": "TEA EXTRA PERSON (1 PAX)",
+            "cnt": "2",
+            "price": "2.00"
+        },
+        {
+            "nm": "TONG HOU",
+            "cnt": "1",
+            "price": "10.00"
+        },
+        {
+            "nm": "MUTTAN SLICE",
+            "cnt": "1",
+            "price": "15.00"
+        },
+        {
+            "nm": "SOUP",
+            "cnt": "1",
+            "price": "0.00"
+        },
+        {
+            "nm": "TOM YUM",
+            "cnt": "1",
+            "price": "0.00"
+        },
+        {
+            "nm": "NO. OF HEAD (2 SET ABOVE)",
+            "cnt": "3",
+            "price": "60.00"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "93.00"
+    },
+    "total": {
+        "total_price": "93.00"
+    },
+    "filename": "592.jpg",
+    "processing_time": 1.97
+}

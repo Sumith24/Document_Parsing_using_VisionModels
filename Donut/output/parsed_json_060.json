@@ -1,0 +1,68 @@
+{
+    "menu": [
+        {
+            "nm": "BENS INDEPENDENT GROCER SDN. BHD",
+            "num": "(913144-A)",
+            "price": "(913144-A)",
+            "sub": [
+                {
+                    "nm": "Lot 6, Jalan Batai,",
+                    "num": "Plaza Batai, Damansara Heights",
+                    "price": "50490, Kuala Lumpur"
+                },
+                {
+                    "nm": "T: 03-2093",
+                    "price": "7359"
+                }
+            ]
+        },
+        {
+            "nm": "12/03/18",
+            "price": "20:29:59"
+        },
+        {
+            "nm": "Dole Pineapple Pcs",
+            "num": "8809059300708",
+            "price": "23.70"
+        },
+        {
+            "nm": "Total Saving 0.00",
+            "num": "3068320113784",
+            "price": "77.20"
+        },
+        {
+            "nm": "Cach",
+            "num": "Qty 4",
+            "price": "77.20"
+        },
+        {
+            "nm": "Goods Tax Amount",
+            "num": "GST Analysis",
+            "price": "22.80"
+        },
+        {
+            "nm": "S = 6%",
+            "num": "50.47",
+            "price": "3.03"
+        },
+        {
+            "nm": "= 0%",
+            "num": "23.70",
+            "price": "0.00"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "0.00",
+        "tax_price": {
+            "num": "FACEBOOK.COM/THEBIGGROUP",
+            "price": "ALLOWED",
+            "subtotal_price": "193120255"
+        }
+    },
+    "total": {
+        "total_price": "8.00",
+        "creditcardprice": "3"
+    },
+    "filename": "060.jpg",
+    "processing_time": 1.92
+}

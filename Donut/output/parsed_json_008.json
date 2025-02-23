@@ -1,0 +1,91 @@
+{
+    "menu": [
+        {
+            "nm": "PERNIAGAAN ZHENG HUI",
+            "unitprice": "JHO26585-V",
+            "cnt": "3\u4eba\u5fc3",
+            "price": "JHO26585-V"
+        },
+        {
+            "nm": "NOG.9JAN PEMAS Q'S"
+        },
+        {
+            "nm": "BANDARAU PEMAS AVA",
+            "unitprice": {
+                "nm": "TEL:078-89754\u8207\u5343X:0836793"
+            },
+            "cnt": "3/21",
+            "price": [
+                {
+                    "nm": "GOGIANT ENGINFERING (M) SON BHO"
+                },
+                {
+                    "nm": "GOGIANT ENGINFERING (M) SON BHO",
+                    "unitprice": "Redult: C80022562",
+                    "cnt": "3/21"
+                }
+            ]
+        },
+        {
+            "nm": "Salter USER",
+            "unitprice": "The 08.3300",
+            "cnt": "3/21",
+            "price": "(RM)"
+        },
+        {
+            "nm": "Item Gyn RSP Amount",
+            "unitprice": "8/339",
+            "cnt": "1",
+            "price": "1,600"
+        },
+        {
+            "nm": "SRB 11\" PRWES HOUTY SLICONCEGUNG.D2",
+            "unitprice": "9/00",
+            "cnt": "3/21",
+            "price": "2/00"
+        },
+        {
+            "nm": "SR: XTRASEAL INYACETI SLICONESAY 10",
+            "unitprice": "9/44",
+            "cnt": "3/21",
+            "price": "1,800"
+        },
+        {
+            "nm": "SR. CENTRA PUNCET SPAC",
+            "unitprice": "14,500",
+            "cnt": "1/25",
+            "price": "1/24*"
+        },
+        {
+            "nm": "SR. 24,24'MARKSAMP FRE WRENCH",
+            "unitprice": "50,000",
+            "cnt": "1",
+            "price": "50,000"
+        },
+        {
+            "nm": "SR.P.V.C WIRE TAPE 1PCXYHO",
+            "unitprice": "0,70",
+            "cnt": "3",
+            "price": "2.1C"
+        },
+        {
+            "unitprice": "106.10",
+            "cnt": "3/21",
+            "discountprice": "0.00",
+            "price": "0.00"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "6,37",
+        "discount_price": "-0.02",
+        "tax_price": "112.46"
+    },
+    "total": {
+        "total_price": "6,36",
+        "cashprice": "0.00",
+        "changeprice": "6.37",
+        "creditcardprice": "106.10"
+    },
+    "filename": "008.jpg",
+    "processing_time": 2.55
+}
